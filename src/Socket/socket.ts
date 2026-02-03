@@ -1,3 +1,7 @@
+console.log('\x1b[36m%s\x1b[0m', '✨ ▰▰▰▰▰▰▰▰▰▰▰ ✨');
+console.log('\x1b[32m%s\x1b[0m', '🟢 Thanks For Use Baileys Sunda ❤️‍🔥');
+console.log('\x1b[36m%s\x1b[0m', '✨ ▰▰▰▰▰▰▰▰▰▰▰ ✨');
+
 import { Boom } from '@hapi/boom'
 import { randomBytes } from 'crypto'
 import { URL } from 'url'
